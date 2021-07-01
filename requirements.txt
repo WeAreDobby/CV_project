@@ -1,0 +1,9 @@
+#===========Crawling package==============
+beautifulsoup4   # for crawl
+selenium   # for open Chrome
+
+#===========Model package===============
+
+
+#===========utils=======================
+tqdm   # for check persentage
