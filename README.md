@@ -1,4 +1,4 @@
-# Crawling 실행 방법
+# Simple Crawling 실행 방법
 ```
 1. Git clone repository
 git clone https://github.com/WeAreDobby/CV_project.git
@@ -46,4 +46,15 @@ python main.py --browser 1   # "1. Chrome, 2. Edge (Default == 1)"
  ```
 
 # StyleGAN 활용방법
+ - Not Yet
 ## [Dataset GoogleDrive](https://drive.google.com/drive/folders/1I3qlAwIZkl4v8TEYjkvNkSeR0Ozb3OEH?usp=sharing)
+
+
+# 참고 자료
+## Youtube
+ - [얼굴을 디즈니 애니메이션으로 만들어버리는 인공지능 / 빵형의 개발도상국](https://www.youtube.com/watch?v=84EqhSY-n6c)
+
+## Blog
+
+## Paper
+ - [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf)
