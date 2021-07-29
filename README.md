@@ -45,6 +45,17 @@ python main.py --browser 1   # "1. Chrome, 2. Edge (Default == 1)"
              ...
  ```
 
+# Simple Preprocessing 실행 방법
+```
+시작은 위 Simple Crawling과 동일
+
+1. start code
+cd Preprocessing
+python main.py -dd or --data_dir './dataset/original_image'   # "Original dataset direction"
+               -sd or --dave_dir './dataset/resized_image'    # "To save resized dataset direction"
+               -s  or --size 256                              # "resize image size (default = 256)"
+```
+
 # StyleGAN 활용방법
  - Not Yet
 ## [Dataset GoogleDrive](https://drive.google.com/drive/folders/1I3qlAwIZkl4v8TEYjkvNkSeR0Ozb3OEH?usp=sharing)
