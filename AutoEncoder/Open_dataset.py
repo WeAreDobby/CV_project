@@ -16,11 +16,10 @@ def png_to_np(path, len_file):
     return pix
 
 
-
+'''
 if __name__ == "__main__":
     path = input("local path : ")
     pix = png_to_np(path, find_path(path))
     train_images = np.array(pix[:768])
-    test_images = np.array(pix[768:])
-    
-
+    test_images = np.array(pix[768:]) 
+'''
