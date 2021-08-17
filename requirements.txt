@@ -1,9 +1,10 @@
 #===========Crawling package==============
-beautifulsoup4   # for crawl
-selenium   # for open Chrome
+beautifulsoup4         # for crawl
+selenium                # for open Chrome
 
 #===========Model package===============
-
+tensorflow >= 2.5.0  # for run keras
+PIL                        # for control images
 
 #===========utils=======================
-tqdm   # for check persentage
+tqdm                    # for check persentage
