@@ -7,4 +7,4 @@ tensorflow >= 2.5.0  # for run keras
 PIL                        # for control images
 
 #===========utils=======================
-tqdm                    # for check persentage
+tqdm                    # for check persentage 
