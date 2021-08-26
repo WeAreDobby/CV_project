@@ -24,7 +24,7 @@ def main(args):
     save_folder_dir = args.save_dir
     size = args.size
     dsize = (size, size)
-
+ 
     image_list = get_image_list(data_folder_dir)
     tbar = tqdm(total=len(image_list)) 
 
