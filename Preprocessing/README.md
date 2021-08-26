@@ -1,4 +1,4 @@
-# Simple Preprocessing 실행 방법
+# Simple Preprocessing 실행 방법 
 ```
 1. Git clone repository
 git clone https://github.com/WeAreDobby/CV_project.git
